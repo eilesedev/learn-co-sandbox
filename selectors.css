@@ -1,3 +1,19 @@
 p {
   color: red;
 }
+
+.thick {
+  font-weight: bold;
+}
+
+.alert {
+  color: red;
+}
+
+#box {
+  background: blue;
+}
+
+h1, p, #box {
+  font-family: Arial, Helvetica, Sans-Serif;
+}
